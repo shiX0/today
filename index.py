@@ -1,1 +1,1 @@
-print(geda)
+print('geda')#message to be printed must be between collon
